@@ -3,9 +3,11 @@
 # tint2-config
 
 
+## basic
+
 | config |
 | --- |
 | [basic](basic) |
-| [top-panel](top-panel) |
-| [bottom-panel](bottom-panel) |
-| [top-bottom-panel](top-bottom-panel) |
+| [basic-top-panel](basic-top-panel) |
+| [basic-bottom-panel](basic-bottom-panel) |
+| [basic-top-bottom-panel](basic-top-bottom-panel) |
