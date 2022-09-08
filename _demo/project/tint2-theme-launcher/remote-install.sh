@@ -5,10 +5,10 @@
 ##
 
 ##
-## * https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/remote-install.sh
-## * https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/remote-install.sh
-## * https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/tint2-theme-launcher
-## * https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/tint2-theme-launcher
+## * https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/project/tint2-theme-launcher/remote-install.sh
+## * https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/project/tint2-theme-launcher/remote-install.sh
+## * https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/project/tint2-theme-launcher/tint2-theme-launcher
+## * https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/project/tint2-theme-launcher/tint2-theme-launcher
 ##
 
 ##
@@ -94,8 +94,8 @@ base_var_init () {
 
 
 	## Target
-	## https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/tint2-theme-launcher
-	THE_TARGET_DOWNLOAD_URL='https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/tint2-theme-launcher'
+	## https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/project/tint2-theme-launcher/tint2-theme-launcher
+	THE_TARGET_DOWNLOAD_URL='https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/project/tint2-theme-launcher/tint2-theme-launcher'
 
 
 	THE_TARGET_FILE_NAME="tint2-theme-launcher"

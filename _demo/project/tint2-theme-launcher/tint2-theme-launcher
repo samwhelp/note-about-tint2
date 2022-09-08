@@ -86,8 +86,8 @@ base_var_init () {
 
 	THE_CMD_FILE_PATH="${THE_CMD_DIR_PATH}/${THE_CMD_FILE_NAME}"
 
-	## https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/tint2-theme-launcher
-	THE_SELF_UPDATE_URL='https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/tint2-theme-launcher'
+	## https://github.com/samwhelp/note-about-tint2/blob/gh-pages/_demo/project/tint2-theme-launcher/tint2-theme-launcher
+	THE_SELF_UPDATE_URL='https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/project/tint2-theme-launcher/tint2-theme-launcher'
 
 
 	THE_TMP_DIR_PATH="/tmp"
