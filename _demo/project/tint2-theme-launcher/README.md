@@ -1,6 +1,17 @@
 
 # tint2-theme-launcher
 
+
+## For Project
+
+* [modeling-theme-basic](https://github.com/samwhelp/note-about-tint2/tree/gh-pages/_demo/config/tint2-config/modeling-theme-basic)
+
+
+## Theme Dir Path
+
+* [~/.config/tint2/theme](https://github.com/samwhelp/note-about-tint2/tree/gh-pages/_demo/config/tint2-config/modeling-theme-basic/theme)
+
+
 ## Install
 
 Run
