@@ -16,6 +16,15 @@ chmod 755 "$HOME/.local/bin/tint2-theme-launcher"
 Or Run
 
 ``` sh
+curl -fLo "$HOME/.local/bin/tint2-theme-launcher" --create-dirs \
+	'https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/tint2-theme-launcher'
+
+chmod 755 "$HOME/.local/bin/tint2-theme-launcher"
+```
+
+Or Run
+
+``` sh
 curl -fsSL 'https://raw.githubusercontent.com/samwhelp/note-about-tint2/gh-pages/_demo/config/tint2-config/modeling-theme-basic/tool/tint2-theme-launcher/remote-install.sh' | bash
 ```
 
